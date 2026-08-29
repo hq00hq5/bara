@@ -1,0 +1,26 @@
+{
+  "category": "sports",
+  "categoryLabel": "رياضة",
+  "items": [
+    { "id": "spt_001", "text": "كرة قدم", "difficulty": "easy", "tags": ["ball", "team"], "enabled": true },
+    { "id": "spt_002", "text": "كرة سلة", "difficulty": "easy", "tags": ["ball", "team"], "enabled": true },
+    { "id": "spt_003", "text": "كرة طائرة", "difficulty": "easy", "tags": ["ball", "team"], "enabled": true },
+    { "id": "spt_004", "text": "تنس", "difficulty": "easy", "tags": ["racket"], "enabled": true },
+    { "id": "spt_005", "text": "سباحة", "difficulty": "easy", "tags": ["water"], "enabled": true },
+    { "id": "spt_006", "text": "ملاكمة", "difficulty": "easy", "tags": ["combat"], "enabled": true },
+    { "id": "spt_007", "text": "جودو", "difficulty": "medium", "tags": ["combat", "martial-arts"], "enabled": true },
+    { "id": "spt_008", "text": "كاراتيه", "difficulty": "easy", "tags": ["combat", "martial-arts"], "enabled": true },
+    { "id": "spt_009", "text": "ركض", "difficulty": "easy", "tags": ["athletics"], "enabled": true },
+    { "id": "spt_010", "text": "دراجة", "difficulty": "easy", "tags": ["cycling"], "enabled": true },
+    { "id": "spt_011", "text": "غوص", "difficulty": "medium", "tags": ["water"], "enabled": true },
+    { "id": "spt_012", "text": "رفع أثقال", "difficulty": "easy", "tags": ["strength"], "enabled": true },
+    { "id": "spt_013", "text": "يوغا", "difficulty": "easy", "tags": ["wellness"], "enabled": true },
+    { "id": "spt_014", "text": "غولف", "difficulty": "medium", "tags": ["club"], "enabled": true },
+    { "id": "spt_015", "text": "بادل", "difficulty": "medium", "tags": ["racket"], "enabled": true },
+    { "id": "spt_016", "text": "ركوب خيل", "difficulty": "medium", "tags": ["equestrian"], "enabled": true },
+    { "id": "spt_017", "text": "تسلق", "difficulty": "medium", "tags": ["outdoor"], "enabled": true },
+    { "id": "spt_018", "text": "كرة يد", "difficulty": "easy", "tags": ["ball", "team"], "enabled": true },
+    { "id": "spt_019", "text": "بلياردو", "difficulty": "easy", "tags": ["indoor"], "enabled": true },
+    { "id": "spt_020", "text": "بولينغ", "difficulty": "easy", "tags": ["indoor"], "enabled": true }
+  ]
+}

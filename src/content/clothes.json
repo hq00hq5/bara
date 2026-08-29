@@ -1,0 +1,26 @@
+{
+  "category": "clothes",
+  "categoryLabel": "ملابس",
+  "items": [
+    { "id": "clo_001", "text": "قميص", "difficulty": "easy", "tags": ["top"], "enabled": true },
+    { "id": "clo_002", "text": "بنطلون", "difficulty": "easy", "tags": ["bottom"], "enabled": true },
+    { "id": "clo_003", "text": "جاكيت", "difficulty": "easy", "tags": ["outer"], "enabled": true },
+    { "id": "clo_004", "text": "عباية", "difficulty": "easy", "tags": ["traditional", "arabic"], "enabled": true },
+    { "id": "clo_005", "text": "ثوب", "difficulty": "easy", "tags": ["traditional", "arabic"], "enabled": true },
+    { "id": "clo_006", "text": "شماغ", "difficulty": "easy", "tags": ["traditional", "arabic"], "enabled": true },
+    { "id": "clo_007", "text": "غترة", "difficulty": "easy", "tags": ["traditional", "arabic"], "enabled": true },
+    { "id": "clo_008", "text": "حذاء", "difficulty": "easy", "tags": ["footwear"], "enabled": true },
+    { "id": "clo_009", "text": "صندل", "difficulty": "easy", "tags": ["footwear"], "enabled": true },
+    { "id": "clo_010", "text": "كنزة", "difficulty": "easy", "tags": ["top"], "enabled": true },
+    { "id": "clo_011", "text": "تيشيرت", "difficulty": "easy", "tags": ["top"], "enabled": true },
+    { "id": "clo_012", "text": "بدلة", "difficulty": "easy", "tags": ["formal"], "enabled": true },
+    { "id": "clo_013", "text": "ربطة عنق", "difficulty": "easy", "tags": ["formal", "accessory"], "enabled": true },
+    { "id": "clo_014", "text": "قبعة", "difficulty": "easy", "tags": ["headwear"], "enabled": true },
+    { "id": "clo_015", "text": "شراب", "difficulty": "easy", "tags": ["footwear"], "enabled": true },
+    { "id": "clo_016", "text": "حزام", "difficulty": "easy", "tags": ["accessory"], "enabled": true },
+    { "id": "clo_017", "text": "شورت", "difficulty": "easy", "tags": ["bottom"], "enabled": true },
+    { "id": "clo_018", "text": "بيجامة", "difficulty": "easy", "tags": ["sleep"], "enabled": true },
+    { "id": "clo_019", "text": "معطف", "difficulty": "easy", "tags": ["outer"], "enabled": true },
+    { "id": "clo_020", "text": "حقيبة ظهر", "difficulty": "easy", "tags": ["bag"], "enabled": true }
+  ]
+}

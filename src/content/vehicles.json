@@ -1,0 +1,26 @@
+{
+  "category": "vehicles",
+  "categoryLabel": "مركبات",
+  "items": [
+    { "id": "veh_001", "text": "سيارة", "difficulty": "easy", "tags": ["land"], "enabled": true },
+    { "id": "veh_002", "text": "شاحنة", "difficulty": "easy", "tags": ["land"], "enabled": true },
+    { "id": "veh_003", "text": "حافلة", "difficulty": "easy", "tags": ["land", "public"], "enabled": true },
+    { "id": "veh_004", "text": "دراجة نارية", "difficulty": "easy", "tags": ["land"], "enabled": true },
+    { "id": "veh_005", "text": "طائرة", "difficulty": "easy", "tags": ["air"], "enabled": true },
+    { "id": "veh_006", "text": "هليكوبتر", "difficulty": "easy", "tags": ["air"], "enabled": true },
+    { "id": "veh_007", "text": "قارب", "difficulty": "easy", "tags": ["water"], "enabled": true },
+    { "id": "veh_008", "text": "سفينة", "difficulty": "easy", "tags": ["water"], "enabled": true },
+    { "id": "veh_009", "text": "غواصة", "difficulty": "medium", "tags": ["water"], "enabled": true },
+    { "id": "veh_010", "text": "قطار", "difficulty": "easy", "tags": ["land", "public"], "enabled": true },
+    { "id": "veh_011", "text": "مترو", "difficulty": "easy", "tags": ["land", "public"], "enabled": true },
+    { "id": "veh_012", "text": "دراجة هوائية", "difficulty": "easy", "tags": ["land"], "enabled": true },
+    { "id": "veh_013", "text": "سكوتر", "difficulty": "easy", "tags": ["land"], "enabled": true },
+    { "id": "veh_014", "text": "جرار", "difficulty": "medium", "tags": ["farm"], "enabled": true },
+    { "id": "veh_015", "text": "سيارة إسعاف", "difficulty": "easy", "tags": ["emergency"], "enabled": true },
+    { "id": "veh_016", "text": "سيارة إطفاء", "difficulty": "easy", "tags": ["emergency"], "enabled": true },
+    { "id": "veh_017", "text": "ليموزين", "difficulty": "easy", "tags": ["land", "luxury"], "enabled": true },
+    { "id": "veh_018", "text": "باخرة سياحية", "difficulty": "medium", "tags": ["water", "tourism"], "enabled": true },
+    { "id": "veh_019", "text": "رافعة", "difficulty": "medium", "tags": ["construction"], "enabled": true },
+    { "id": "veh_020", "text": "جيب", "difficulty": "easy", "tags": ["land", "off-road"], "enabled": true }
+  ]
+}

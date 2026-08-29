@@ -1,0 +1,26 @@
+{
+  "category": "nature",
+  "categoryLabel": "طبيعة",
+  "items": [
+    { "id": "nat_001", "text": "جبل", "difficulty": "easy", "tags": ["landscape"], "enabled": true },
+    { "id": "nat_002", "text": "بحر", "difficulty": "easy", "tags": ["water"], "enabled": true },
+    { "id": "nat_003", "text": "نهر", "difficulty": "easy", "tags": ["water"], "enabled": true },
+    { "id": "nat_004", "text": "بحيرة", "difficulty": "easy", "tags": ["water"], "enabled": true },
+    { "id": "nat_005", "text": "صحراء", "difficulty": "easy", "tags": ["landscape"], "enabled": true },
+    { "id": "nat_006", "text": "غابة", "difficulty": "easy", "tags": ["landscape"], "enabled": true },
+    { "id": "nat_007", "text": "شلال", "difficulty": "easy", "tags": ["water", "landscape"], "enabled": true },
+    { "id": "nat_008", "text": "نجمة", "difficulty": "easy", "tags": ["sky"], "enabled": true },
+    { "id": "nat_009", "text": "قمر", "difficulty": "easy", "tags": ["sky"], "enabled": true },
+    { "id": "nat_010", "text": "شمس", "difficulty": "easy", "tags": ["sky"], "enabled": true },
+    { "id": "nat_011", "text": "سحابة", "difficulty": "easy", "tags": ["weather"], "enabled": true },
+    { "id": "nat_012", "text": "مطر", "difficulty": "easy", "tags": ["weather"], "enabled": true },
+    { "id": "nat_013", "text": "برق", "difficulty": "easy", "tags": ["weather"], "enabled": true },
+    { "id": "nat_014", "text": "ثلج", "difficulty": "easy", "tags": ["weather"], "enabled": true },
+    { "id": "nat_015", "text": "قوس قزح", "difficulty": "easy", "tags": ["weather"], "enabled": true },
+    { "id": "nat_016", "text": "ريح", "difficulty": "easy", "tags": ["weather"], "enabled": true },
+    { "id": "nat_017", "text": "زلزال", "difficulty": "medium", "tags": ["disaster"], "enabled": true },
+    { "id": "nat_018", "text": "بركان", "difficulty": "easy", "tags": ["disaster"], "enabled": true },
+    { "id": "nat_019", "text": "موجة تسونامي", "difficulty": "medium", "tags": ["disaster"], "enabled": true },
+    { "id": "nat_020", "text": "شجرة نخيل", "difficulty": "easy", "tags": ["plant"], "enabled": true }
+  ]
+}

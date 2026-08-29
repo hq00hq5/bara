@@ -1,0 +1,31 @@
+{
+  "category": "electronics",
+  "categoryLabel": "إلكترونيات",
+  "items": [
+    { "id": "ele_001", "text": "هاتف", "difficulty": "easy", "tags": ["mobile"], "enabled": true },
+    { "id": "ele_002", "text": "لابتوب", "difficulty": "easy", "tags": ["computer"], "enabled": true },
+    { "id": "ele_003", "text": "تلفزيون", "difficulty": "easy", "tags": ["tv"], "enabled": true },
+    { "id": "ele_004", "text": "سماعة", "difficulty": "easy", "tags": ["audio"], "enabled": true },
+    { "id": "ele_005", "text": "ماوس", "difficulty": "easy", "tags": ["computer"], "enabled": true },
+    { "id": "ele_006", "text": "كيبورد", "difficulty": "easy", "tags": ["computer"], "enabled": true },
+    { "id": "ele_007", "text": "شاشة", "difficulty": "easy", "tags": ["computer"], "enabled": true },
+    { "id": "ele_008", "text": "طابعة", "difficulty": "easy", "tags": ["computer"], "enabled": true },
+    { "id": "ele_009", "text": "كاميرا", "difficulty": "easy", "tags": ["camera"], "enabled": true },
+    { "id": "ele_010", "text": "جهاز لوحي", "difficulty": "easy", "tags": ["mobile"], "enabled": true },
+    { "id": "ele_011", "text": "ساعة ذكية", "difficulty": "easy", "tags": ["wearable"], "enabled": true },
+    { "id": "ele_012", "text": "سبيكر", "difficulty": "easy", "tags": ["audio"], "enabled": true },
+    { "id": "ele_013", "text": "راوتر", "difficulty": "medium", "tags": ["network"], "enabled": true },
+    { "id": "ele_014", "text": "ميكروفون", "difficulty": "easy", "tags": ["audio"], "enabled": true },
+    { "id": "ele_015", "text": "مكيف", "difficulty": "easy", "tags": ["appliance"], "enabled": true },
+    { "id": "ele_016", "text": "غسالة", "difficulty": "easy", "tags": ["appliance"], "enabled": true },
+    { "id": "ele_017", "text": "ثلاجة", "difficulty": "easy", "tags": ["appliance"], "enabled": true },
+    { "id": "ele_018", "text": "ميكروويف", "difficulty": "easy", "tags": ["appliance", "kitchen"], "enabled": true },
+    { "id": "ele_019", "text": "مكنسة كهربائية", "difficulty": "easy", "tags": ["appliance"], "enabled": true },
+    { "id": "ele_020", "text": "مروحة", "difficulty": "easy", "tags": ["appliance"], "enabled": true },
+    { "id": "ele_021", "text": "مصباح ذكي", "difficulty": "medium", "tags": ["smart-home"], "enabled": true },
+    { "id": "ele_022", "text": "بلايستيشن", "difficulty": "easy", "tags": ["gaming"], "enabled": true },
+    { "id": "ele_023", "text": "جهاز تحكم", "difficulty": "easy", "tags": ["gaming"], "enabled": true },
+    { "id": "ele_024", "text": "فلاش ميموري", "difficulty": "medium", "tags": ["storage"], "enabled": true },
+    { "id": "ele_025", "text": "شاحن", "difficulty": "easy", "tags": ["accessory"], "enabled": true }
+  ]
+}

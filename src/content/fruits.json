@@ -1,0 +1,21 @@
+{
+  "category": "fruits",
+  "categoryLabel": "فواكه",
+  "items": [
+    { "id": "fru_001", "text": "تفاح", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_002", "text": "موز", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_003", "text": "برتقال", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_004", "text": "مانجو", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_005", "text": "عنب", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_006", "text": "فراولة", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_007", "text": "بطيخ", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_008", "text": "شمام", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_009", "text": "أناناس", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_010", "text": "رمان", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_011", "text": "تين", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_012", "text": "تمر", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_013", "text": "كيوي", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_014", "text": "خوخ", "difficulty": "easy", "tags": ["fruit"], "enabled": true },
+    { "id": "fru_015", "text": "مشمش", "difficulty": "easy", "tags": ["fruit"], "enabled": true }
+  ]
+}

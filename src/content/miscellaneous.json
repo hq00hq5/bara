@@ -1,0 +1,26 @@
+{
+  "category": "miscellaneous",
+  "categoryLabel": "متنوع",
+  "items": [
+    { "id": "mis_001", "text": "لعبة فيديو", "difficulty": "easy", "tags": ["entertainment"], "enabled": true },
+    { "id": "mis_002", "text": "أغنية", "difficulty": "easy", "tags": ["music"], "enabled": true },
+    { "id": "mis_003", "text": "فيلم", "difficulty": "easy", "tags": ["entertainment"], "enabled": true },
+    { "id": "mis_004", "text": "مسلسل", "difficulty": "easy", "tags": ["entertainment"], "enabled": true },
+    { "id": "mis_005", "text": "كتاب", "difficulty": "easy", "tags": ["reading"], "enabled": true },
+    { "id": "mis_006", "text": "لغز", "difficulty": "easy", "tags": ["puzzle"], "enabled": true },
+    { "id": "mis_007", "text": "لعبة ورق", "difficulty": "easy", "tags": ["games"], "enabled": true },
+    { "id": "mis_008", "text": "كرة قدم أمريكية", "difficulty": "medium", "tags": ["sports"], "enabled": true },
+    { "id": "mis_009", "text": "رياضة الإسكواش", "difficulty": "medium", "tags": ["sports"], "enabled": true },
+    { "id": "mis_010", "text": "شطرنج", "difficulty": "easy", "tags": ["games", "strategy"], "enabled": true },
+    { "id": "mis_011", "text": "طاولة زهر", "difficulty": "easy", "tags": ["games"], "enabled": true },
+    { "id": "mis_012", "text": "كاميرا فيديو", "difficulty": "easy", "tags": ["electronics"], "enabled": true },
+    { "id": "mis_013", "text": "مكبر صوت", "difficulty": "easy", "tags": ["audio"], "enabled": true },
+    { "id": "mis_014", "text": "قاموس", "difficulty": "easy", "tags": ["reference"], "enabled": true },
+    { "id": "mis_015", "text": "خارطة", "difficulty": "easy", "tags": ["navigation"], "enabled": true },
+    { "id": "mis_016", "text": "بوصلة", "difficulty": "medium", "tags": ["navigation"], "enabled": true },
+    { "id": "mis_017", "text": "منبّه", "difficulty": "easy", "tags": ["time"], "enabled": true },
+    { "id": "mis_018", "text": "آلة حاسبة", "difficulty": "easy", "tags": ["tool"], "enabled": true },
+    { "id": "mis_019", "text": "تلسكوب", "difficulty": "medium", "tags": ["science"], "enabled": true },
+    { "id": "mis_020", "text": "مجهر", "difficulty": "medium", "tags": ["science"], "enabled": true }
+  ]
+}

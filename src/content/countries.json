@@ -1,0 +1,31 @@
+{
+  "category": "countries",
+  "categoryLabel": "دول",
+  "items": [
+    { "id": "ctr_001", "text": "السعودية", "difficulty": "easy", "tags": ["gulf", "arabic"], "enabled": true },
+    { "id": "ctr_002", "text": "الإمارات", "difficulty": "easy", "tags": ["gulf", "arabic"], "enabled": true },
+    { "id": "ctr_003", "text": "الكويت", "difficulty": "easy", "tags": ["gulf", "arabic"], "enabled": true },
+    { "id": "ctr_004", "text": "البحرين", "difficulty": "easy", "tags": ["gulf", "arabic"], "enabled": true },
+    { "id": "ctr_005", "text": "قطر", "difficulty": "easy", "tags": ["gulf", "arabic"], "enabled": true },
+    { "id": "ctr_006", "text": "عمان", "difficulty": "easy", "tags": ["gulf", "arabic"], "enabled": true },
+    { "id": "ctr_007", "text": "مصر", "difficulty": "easy", "tags": ["africa", "arabic"], "enabled": true },
+    { "id": "ctr_008", "text": "الأردن", "difficulty": "easy", "tags": ["levant", "arabic"], "enabled": true },
+    { "id": "ctr_009", "text": "لبنان", "difficulty": "easy", "tags": ["levant", "arabic"], "enabled": true },
+    { "id": "ctr_010", "text": "العراق", "difficulty": "easy", "tags": ["levant", "arabic"], "enabled": true },
+    { "id": "ctr_011", "text": "تركيا", "difficulty": "easy", "tags": ["middle-east"], "enabled": true },
+    { "id": "ctr_012", "text": "إيران", "difficulty": "easy", "tags": ["middle-east"], "enabled": true },
+    { "id": "ctr_013", "text": "أمريكا", "difficulty": "easy", "tags": ["western"], "enabled": true },
+    { "id": "ctr_014", "text": "بريطانيا", "difficulty": "easy", "tags": ["western"], "enabled": true },
+    { "id": "ctr_015", "text": "فرنسا", "difficulty": "easy", "tags": ["western"], "enabled": true },
+    { "id": "ctr_016", "text": "ألمانيا", "difficulty": "easy", "tags": ["western"], "enabled": true },
+    { "id": "ctr_017", "text": "إيطاليا", "difficulty": "easy", "tags": ["western"], "enabled": true },
+    { "id": "ctr_018", "text": "إسبانيا", "difficulty": "easy", "tags": ["western"], "enabled": true },
+    { "id": "ctr_019", "text": "اليابان", "difficulty": "easy", "tags": ["asia"], "enabled": true },
+    { "id": "ctr_020", "text": "كوريا الجنوبية", "difficulty": "easy", "tags": ["asia"], "enabled": true },
+    { "id": "ctr_021", "text": "الصين", "difficulty": "easy", "tags": ["asia"], "enabled": true },
+    { "id": "ctr_022", "text": "الهند", "difficulty": "easy", "tags": ["asia"], "enabled": true },
+    { "id": "ctr_023", "text": "روسيا", "difficulty": "easy", "tags": ["europe"], "enabled": true },
+    { "id": "ctr_024", "text": "البرازيل", "difficulty": "easy", "tags": ["south-america"], "enabled": true },
+    { "id": "ctr_025", "text": "المكسيك", "difficulty": "easy", "tags": ["americas"], "enabled": true }
+  ]
+}

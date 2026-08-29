@@ -1,0 +1,29 @@
+{
+  "name": "لمّتنا — ألعاب اجتماعية",
+  "short_name": "لمّتنا",
+  "description": "منصة ألعاب اجتماعية محلية للأصدقاء والعائلة من جوال واحد بدون إنترنت",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#728ec6",
+  "background_color": "#728ec6",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["games", "entertainment", "social"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": []
+}

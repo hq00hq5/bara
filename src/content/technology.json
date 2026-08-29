@@ -1,0 +1,26 @@
+{
+  "category": "technology",
+  "categoryLabel": "تقنية",
+  "items": [
+    { "id": "tec_001", "text": "إنترنت", "difficulty": "easy", "tags": ["network"], "enabled": true },
+    { "id": "tec_002", "text": "ذكاء اصطناعي", "difficulty": "easy", "tags": ["ai"], "enabled": true },
+    { "id": "tec_003", "text": "برنامج", "difficulty": "easy", "tags": ["software"], "enabled": true },
+    { "id": "tec_004", "text": "تطبيق", "difficulty": "easy", "tags": ["software"], "enabled": true },
+    { "id": "tec_005", "text": "موقع", "difficulty": "easy", "tags": ["web"], "enabled": true },
+    { "id": "tec_006", "text": "كلاود", "difficulty": "medium", "tags": ["cloud"], "enabled": true },
+    { "id": "tec_007", "text": "بلوتوث", "difficulty": "easy", "tags": ["wireless"], "enabled": true },
+    { "id": "tec_008", "text": "واي فاي", "difficulty": "easy", "tags": ["wireless"], "enabled": true },
+    { "id": "tec_009", "text": "كيو آر كود", "difficulty": "easy", "tags": ["code"], "enabled": true },
+    { "id": "tec_010", "text": "خوارزمية", "difficulty": "hard", "tags": ["programming"], "enabled": true },
+    { "id": "tec_011", "text": "قاعدة بيانات", "difficulty": "medium", "tags": ["software"], "enabled": true },
+    { "id": "tec_012", "text": "هاكر", "difficulty": "easy", "tags": ["security"], "enabled": true },
+    { "id": "tec_013", "text": "سيبر", "difficulty": "medium", "tags": ["security"], "enabled": true },
+    { "id": "tec_014", "text": "روبوت", "difficulty": "easy", "tags": ["ai"], "enabled": true },
+    { "id": "tec_015", "text": "طائرة مسيّرة", "difficulty": "easy", "tags": ["drone"], "enabled": true },
+    { "id": "tec_016", "text": "واقع افتراضي", "difficulty": "medium", "tags": ["vr"], "enabled": true },
+    { "id": "tec_017", "text": "ميتافيرس", "difficulty": "medium", "tags": ["vr", "social"], "enabled": true },
+    { "id": "tec_018", "text": "بلوكتشين", "difficulty": "hard", "tags": ["crypto"], "enabled": true },
+    { "id": "tec_019", "text": "سيرفر", "difficulty": "medium", "tags": ["network"], "enabled": true },
+    { "id": "tec_020", "text": "شاشة لمس", "difficulty": "easy", "tags": ["hardware"], "enabled": true }
+  ]
+}

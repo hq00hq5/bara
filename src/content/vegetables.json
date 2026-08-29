@@ -1,0 +1,21 @@
+{
+  "category": "vegetables",
+  "categoryLabel": "خضار",
+  "items": [
+    { "id": "veg_001", "text": "طماطم", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_002", "text": "خيار", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_003", "text": "بصل", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_004", "text": "ثوم", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_005", "text": "بطاطس", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_006", "text": "جزر", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_007", "text": "خس", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_008", "text": "كوسة", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_009", "text": "باذنجان", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_010", "text": "فلفل رومي", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_011", "text": "فلفل حار", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_012", "text": "بقدونس", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_013", "text": "كزبرة", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_014", "text": "نعناع", "difficulty": "easy", "tags": ["vegetable"], "enabled": true },
+    { "id": "veg_015", "text": "زنجبيل", "difficulty": "easy", "tags": ["vegetable"], "enabled": true }
+  ]
+}
